@@ -3,7 +3,7 @@ import path from "node:path";
 import { createHash } from "node:crypto";
 
 const root = path.resolve("dist");
-const base = "/clinic-management-system/";
+const base = "/noor-jahan-memorial-clinic/";
 const excluded = new Set(["sw.js", "precache-manifest.json", "404.html"]);
 
 async function walk(directory) {

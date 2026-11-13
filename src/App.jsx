@@ -13,7 +13,7 @@ import { ROLES } from "./config";
 
 function App() {
   return (
-    <BrowserRouter basename="/clinic-management-system">
+    <BrowserRouter basename="/noor-jahan-memorial-clinic">
       <Routes>
         <Route path="/login" element={<Login />} />
 

@@ -1,18 +1,34 @@
+
 {
-  "id": "/clinic-management-system/",
+  "id": "/noor-jahan-memorial-clinic/",
   "name": "Noor Jahan Memorial",
   "short_name": "Noor Jahan Clinic",
   "description": "Noor Jahan Memorial Clinic Management System",
   "lang": "en-PK",
-  "start_url": "/clinic-management-system/",
-  "scope": "/clinic-management-system/",
+  "start_url": "/noor-jahan-memorial-clinic/",
+  "scope": "/noor-jahan-memorial-clinic/",
   "display": "standalone",
   "orientation": "any",
   "background_color": "#f7f3f0",
   "theme_color": "#681629",
   "icons": [
-    { "src": "/clinic-management-system/icons/clinic-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
-    { "src": "/clinic-management-system/icons/clinic-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
-    { "src": "/clinic-management-system/icons/clinic-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+    {
+      "src": "/noor-jahan-memorial-clinic/icons/clinic-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/noor-jahan-memorial-clinic/icons/clinic-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/noor-jahan-memorial-clinic/icons/clinic-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
   ]
 }
